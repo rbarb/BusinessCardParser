@@ -1,0 +1,5 @@
+Jane Doe
+Best Buy
+Tel: (555)567-7654
+Fax: (555)567-4567
+jdoe@hotmail.com
